@@ -1,0 +1,9 @@
+Control-Code Interactiva Web (C)2012
+Copyright (C)2000-2005 Gustavo Reyes. Twitter: @greyes
+Todos los derechos reservados.
+http://www.interactivaweb.com
+contacto@interactivaweb.com
+Nueva liberación 18-5-2012
+
+Versión: 1.0 Beta
+Autor: Gustavo Reyes

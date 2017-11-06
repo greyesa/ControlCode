@@ -1,0 +1,31 @@
+Control-Code Interactiva Web (C)2012
+Copyright (C)2000-2005 Gustavo Reyes. Twitter: @greyes
+Todos los derechos reservados.
+http://www.interactivaweb.com
+contacto@interactivaweb.com
+Nueva liberación 18-5-2012
+
+Cambios:
+********
+25/08/05 Beta 2 [Candidato 1]
+-----------------------------
+- Pruebas con Lector tipo Pistola  (Hand Held Products) IT3800 (LR/LTPP/LX)
+		RESULTADO: SATISFACTORIO
+- Agregar modulo para importación de datos en archivos CSV
+
+
+25/06/05 Beta 2
+---------------
+- Agregar la opción de Ingreso de Imagen de Factura para identificar a cada equipo.
+- Agregar name="testform" al formulario de edición de equipo para comprobación se servicetag.
+
+
+9/06/05 Beta 1
+---------------
+- Agregar la variable $cod_cod-$serie juntas en el modulo entregarcarta.
+- Agregar doble copia, cuando se imprime carta de entrega de equipo.
+- Agregar comprovacion de los departamentos a BD, cuando se ingresa.
+- Agregar comprovacion de equipo a BD, cuando se ingresa.
+- Opciones de los niveles de los usuarios.
+- Componer el bucle en carta.php para ingresar el valor 1 en equipo. (De entregado)
+- Eliminar una conexión a mysql con bd control-code que estaba de más.
